@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+.form-control{
+    width: 15%;
+    margin-bottom: 10px;
+    position: center;
+}
+.btn{
+    background-color: rebeccapurple;
+    margin-top: 10px;
+    position: relative;
+    margin-right: 30px;
+}
+#grid{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.line{
+    background: #333333;
+}
+
+.box{
+    width: 20px;
+    height: 20px;
+    margin: 0px;
+    outline: 1px solid;
+    display: inline-block;
+    float: left;
+    background: white;
+}
+
+.filled{
+    background: greenyellow;
+}
